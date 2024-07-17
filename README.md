@@ -12,7 +12,7 @@
         <td>1</td>
         <td>Tours</td>
         <td>[Tours](/main/1-Tours)</td>
-        <td>[https://touurss.netlify.app/](https://touurss.netlify.app/)</td>
+        <td>https://touurss.netlify.app/</td>
       </tr>
     </tbody>
   </table>
