@@ -11,7 +11,7 @@
       <tr>
         <td>1</td>
         <td>Tours</td>
-        <td>[Tours](/main/1-Tours)</td>
+        <td><a href = "/main/1-Tours">Tours</a></td>
         <td>https://touurss.netlify.app/</td>
       </tr>
     </tbody>
