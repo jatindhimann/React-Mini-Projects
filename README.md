@@ -12,6 +12,12 @@
         <td>1</td>
         <td>Tours</td>
         <td><a href = "/1-Tours">Tours</a></td>
+        <td>https://reviewes.netlify.app</td>
+      </tr>
+        <tr>
+        <td>2</td>
+        <td>Reviews</td>
+        <td><a href = "/2-Reviews">Tours</a></td>
         <td>https://ontour.netlify.app/</td>
       </tr>
     </tbody>
