@@ -32,5 +32,11 @@
         <td><a href = "/4-Sidebar-Modal">Sidebar and Modal</a></td>
         <td>https://sidebar-modall.netlify.app/</td>
       </tr>
+        <tr>
+        <td>5</td>
+        <td>CRD TASK</td>
+        <td><a href = "/5-CRDTASK">CRD TASK</a></td>
+        <td>https://crd-task.netlify.app//</td>
+      </tr>
     </tbody>
   </table>
