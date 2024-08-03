@@ -26,5 +26,11 @@
         <td><a href = "/3-Cricket%20Store">Cricket Product</a></td>
         <td>https://cricket-storee.netlify.app/</td>
       </tr>
+        <tr>
+        <td>4</td>
+        <td>SideBar and Modal</td>
+        <td><a href = "/4-Sidebar-Modal">Sidebar and Modal</a></td>
+        <td>https://sidebar-modall.netlify.app/</td>
+      </tr>
     </tbody>
   </table>
