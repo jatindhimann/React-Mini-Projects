@@ -4,7 +4,7 @@
         <th>S.No</th>
         <th>Project Name</th>
         <th>Link</th>
-        <th>Deployment</th>
+        <th>Live</th>
       </tr>
     </thead>
     <tbody>
